@@ -42,20 +42,21 @@ Assemblage:
 PhotoRésistances:
 http://fr.wikipedia.org/wiki/Diviseur_de_tension
 
-CapteurLumièreA - Résistance 10k----|----PhotoRésistance-----Ground Arduino
-                                    |
+    CapteurLumièreA - Résistance 10k----|----PhotoRésistance-----Ground Arduino
+                                        |
                             Pin Analogique 4 Arduino
                             
-
-CapteurLumièreB - Résistance 10k----|----PhotoRésistance----Ground Arduino
-                                    |
+    CapteurLumièreB - Résistance 10k----|----PhotoRésistance----Ground Arduino
+                                        |
                             Pin Analogique 5 Arduino
 
 Module 4 relais Funduino Keyes:
 VCC-Int1-Int2-Int3-Int4-GND
 
 Arduino:
+
 Pin Digital:
+
 0:RX ne pas utiliser
 1:TX ne pas utiliser
 2:CapteurHumiditéA - fils rouge VH400 
