@@ -58,38 +58,70 @@ Arduino:
 Pin Digital:
 
 0:RX ne pas utiliser
+
 1:TX ne pas utiliser
+
 2:CapteurHumiditéA - fils rouge VH400 
+
 3:CapteurHumiditéB - fils rouge VH400
+
 4:CapteurHumiditéC - fils rouge VH400
+
 5:CapteurHumiditéD - fils rouge VH400
+
 6:CapteurLumièreA -Avant résistance 10k
+
 7:CapateurLumièreB- Avant résistance 10k
+
 8:Relay pour Valve SolenoidA --- Relai funduino keyesA int1
+
 9:Relay pour Valve SolenoidB --- Relai funduino keyesA int2 
+
 10:Relay pour Valve SolenoidC--- Relai funduino keyesA int3
+
 11:Relay pour Valve SolenoidD--- Relai funduino keyesA int4
+
 12:Relay pour Module LumièreA--- Relai funduino keyesB int1 
+
 13:Relay pour Module LumièreB--- Relai funduino keyesB int2
 
-Analog Pin
+
+Analog Pin:
+
 0:CapteurHumiditéA - fil noir VH400
+
 1:CapteurHumiditéB - fil noir VH400
+
 2:CapteurHumiditéC - fil noir VH400
+
 3:CapteurHumiditéD - fil Noir VH400
-4:PhotoRésistanceA - après résistance 10k avant PhotoRésistanceA 
+
+4:PhotoRésistanceA - après résistance 10k avant PhotoRésistanceA
+
 5:PhotoRésistanceB - après résistance 10k avant PhotoRésistanceB 
 
+
 Ground Arduino
+
 CapteurHumiditéA - fil dénudé VH400
+
 CapteurHumiditéB - fil dénudé VH400
+
 CapteurHumiditéC - fil dénudé VH400
+
 CapteurHumiditéD - fil dénudé VH400
+
 PhotoRésistanceA - Après PhotoRésistanceA
+
 PhotoRésistanceB - Après PhotoRésistanceB
+
 Relai Funduino keyesA - GND
+
 Relai Funduino keyesB - GND
 
-5V Arduino
+
+5V Arduino:
+
 Relai Funduino keyesA - VCC
+
 Relai Funduino keyesB - VCC
