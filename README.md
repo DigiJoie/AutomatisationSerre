@@ -9,13 +9,12 @@ Matériels utilisés:
 
 -4 Valve solenoid série 2400:
 
-Caractéristiques techniques électriques
-
-.Solénoïde : 24 V c.a
-.Courant d'appel volt-ampère : 24 V c.a.-9,6 VA
-.Courant d'appel : 4 ampères
-.Courant de maintien volt-ampère : 24 V c.a.-4,8 VA
-.Courant de maintien : 2 ampères
+    Caractéristiques techniques électriques
+    .Solénoïde : 24 V c.a
+    .Courant d'appel volt-ampère : 24 V c.a.-9,6 VA
+    .Courant d'appel : 4 ampères
+    .Courant de maintien volt-ampère : 24 V c.a.-4,8 VA
+    .Courant de maintien : 2 ampères
 
 -Modules 4 relais de keyes funduino 2x
 
