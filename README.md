@@ -41,10 +41,12 @@ Assemblage:
 
 PhotoRésistances:
 http://fr.wikipedia.org/wiki/Diviseur_de_tension
+
 CapteurLumièreA - Résistance 10k----|----PhotoRésistance-----Ground Arduino
                                     |
                             Pin Analogique 4 Arduino
                             
+
 CapteurLumièreB - Résistance 10k----|----PhotoRésistance----Ground Arduino
                                     |
                             Pin Analogique 5 Arduino
